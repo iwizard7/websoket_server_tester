@@ -1,0 +1,7 @@
+replicaCount: 1
+image:
+  repository: your-registry/your-image
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  port: 8765
