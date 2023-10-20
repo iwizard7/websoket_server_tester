@@ -1,4 +1,4 @@
-# WebSocket Server Helm Chart
+# WebSocket Server Helm Chart 🛜
 
 🌐 Пример Helm-чарта для развертывания WebSocket сервера на Python.
 
