@@ -2,7 +2,7 @@
 
 🌐 Пример Helm-чарта для развертывания простого WebSocket сервера на Python.
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iwizard7/websoket_server_tester)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iwizard7/websoket_server_tester) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/iwizard7/websoket_server_tester)
 
 ## Описание
 
