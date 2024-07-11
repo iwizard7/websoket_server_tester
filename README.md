@@ -1,4 +1,4 @@
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iwizard7/websoket_server_tester) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/iwizard7/websoket_server_tester)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iwizard7/websoket_server_tester) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/iwizard7/websoket_server_tester) [![Pylint](https://github.com/iwizard7/websoket_server_tester/actions/workflows/pylint.yml/badge.svg)](https://github.com/iwizard7/websoket_server_tester/actions/workflows/pylint.yml) [![Pylint](https://github.com/iwizard7/websoket_server_tester/actions/workflows/pylint.yml/badge.svg)](https://github.com/iwizard7/websoket_server_tester/actions/workflows/pylint.yml) [![Bandit](https://github.com/iwizard7/websoket_server_tester/actions/workflows/bandit.yml/badge.svg)](https://github.com/iwizard7/websoket_server_tester/actions/workflows/bandit.yml)
 # WebSocket Server Helm Chart
 
 🌐 Пример Helm-чарта для развертывания простого WebSocket сервера на Python.
