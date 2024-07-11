@@ -9,7 +9,7 @@
 import asyncio
 import websockets
 
-async def handle_connection(websocket, path):
+async def handle_connection(websocket, _):
     """
     Обрабатывает новое веб-сокет подключение.
 
