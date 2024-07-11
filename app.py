@@ -29,7 +29,8 @@ async def handle_connection(websocket, path):
             print(f"Получено сообщение: {message}")
 
             # Отправка ответного сообщения
-            response = f"Привет, клиент! Получено сообщение: {message}"
+            response = ("Привет, клиент! Получено сообщение: "
+                        f"{message}")
             await websocket.send(response)
     except websockets.exceptions.ConnectionClosedOK:
         # Обработка закрытия соединения
